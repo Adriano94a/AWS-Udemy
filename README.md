@@ -21,7 +21,7 @@ Faturamento e preços	16%
 
 | On-Site | Iaas | Paas | Saas |
 |--- |--- |--- | --- |
-| Applications| Applications |  Applications | Applications |
+|{c:red} Applications {/c}| Applications |  Applications | Applications |
 | Data | Data | Data | Data |
 
 
