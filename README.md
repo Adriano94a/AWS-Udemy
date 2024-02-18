@@ -21,8 +21,6 @@ Faturamento e preços	16%
 
 | On-Site | Iaas | Paas | Saas |
 |--- |--- |--- | --- |
-|Applications| Applications |  Applications | Applications |
-| Data | Data | Data | Data |
 |Applications |	Eu |	Eu |	aws |
 |Data |	Eu	| Eu | aws |
 |Runtime |	Eu |	aws |	aws |
