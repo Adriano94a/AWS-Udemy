@@ -19,10 +19,21 @@ Faturamento e preços	16%
 --------------------------------------------------------------
 # Cloud Computing
 
-| On-Site | Iaas | Paas | Saas |
+** | On-Site | Iaas | Paas | Saas |
 |--- |--- |--- | --- |
-|{c:red}Applications{/c}| Applications |  Applications | Applications |
+|Applications| Applications |  Applications | Applications |
 | Data | Data | Data | Data |
+|Applications |	Eu |	Eu |	aws |
+|Data |	Eu	| Eu | aws |
+|Runtime |	Eu |	aws |	aws |
+|Middleware	| Eu	| aws	| aws |
+|O/S	| Eu	| aws	| aws |
+|Virtualization	| aws	| aws	| aws |
+|Servers |	aws |	aws |	aws |
+|Storage	| aws	| aws	| aws|
+|Networking |	aws |	aws |	aws |
+----------------------------------------------------------------------
+
 
 
 
