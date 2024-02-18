@@ -16,8 +16,14 @@ Conceitos de nuvem	26%
 Segurança e conformidade	25%
 Tecnologia	33%
 Faturamento e preços	16%
-Total	100%
-    ![aws](https://github.com/Adriano94a/AWS-Udemy/assets/153141592/6a9fc64f-2c6a-40f2-a6bd-46a4ca7f04c4)
+--------------------------------------------------------------
+# Cloud Computing
+
+| On-Site | Iaas | Paas | Saas |
+|--- |--- |--- | --- |
+| Applications| Applications |  Applications | Applications |
+| Data | Data | Data | Data |
+
 
 
 
