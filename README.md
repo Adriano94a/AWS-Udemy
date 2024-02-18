@@ -19,7 +19,7 @@ Faturamento e preços	16%
 --------------------------------------------------------------
 # Cloud Computing
 
-** | On-Site | Iaas | Paas | Saas |
+| On-Site | Iaas | Paas | Saas |
 |--- |--- |--- | --- |
 |Applications| Applications |  Applications | Applications |
 | Data | Data | Data | Data |
