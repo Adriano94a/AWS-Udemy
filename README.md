@@ -19,6 +19,10 @@ Faturamento e preços	16%
 --------------------------------------------------------------
 # Cloud Computing
 
+Iaas => Infrastructure as a service (Uso)
+Paas => Plataform as a service (Uso)
+Saas => Service as a service (Uso)
+
 | On-Site | Iaas | Paas | Saas |
 |--- |--- |--- | --- |
 |Applications |	Eu |	Eu |	aws |
